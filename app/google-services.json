@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "805066504784",
+    "project_id": "flytbase-ab053",
+    "storage_bucket": "flytbase-ab053.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805066504784:android:446bd42219ab45f228ef55",
+        "android_client_info": {
+          "package_name": "com.flytbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805066504784-n2rqshofrqpe99o70dpa5ufmgr74cvrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPsV0W9HX2JYQ7cO1vdCNCJgRJKs8WWq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805066504784-n2rqshofrqpe99o70dpa5ufmgr74cvrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
